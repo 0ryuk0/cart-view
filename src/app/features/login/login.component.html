@@ -1,0 +1,13 @@
+<div class="login_main">
+  <div class="login_block">
+    <section>
+      <input type="text" [(ngModel)]="userId" placeholder="User Id" value="test-user" (blur) ="loginParams(userId, 'userId')"><br>
+      <!-- #<input type="password" placeholder="Password" value="user@123"><br> -->
+      <input type="password" [(ngModel)]="password" placeholder="Password" value="test-password" (blur)="loginParams(password, 'password')"><br>
+      <button value="Login" (click)="login()">Login</button><br>
+    </section>
+    <div class="background_login">
+      <img src="assets/images/background.jpg">
+    </div>
+  </div>
+</div>
