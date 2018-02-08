@@ -1,0 +1,36 @@
+[
+    {
+        "productId" : "0001",
+        "productTitle" : "Product 1",
+        "productDescription" : "",
+        "images" : [],
+        "manufacturedOn" : "",
+        "manufacturedBy" : "",
+        "sellerDetails" : {
+            "id" : "",
+            "name" : "",
+            "address" : "",
+            "branches" : "",
+            "ratings" : ""
+        },
+        "reviews" : [],
+        "userRatings" : ""
+    },
+    {
+        "productId" : "0002",
+        "productTitle" : "Product 2",
+        "productDescription" : "",
+        "images" : [],
+        "manufacturedOn" : "",
+        "manufacturedBy" : "",
+        "sellerDetails" : {
+            "id" : "",
+            "name" : "",
+            "address" : "",
+            "branches" : "",
+            "ratings" : ""
+        },
+        "reviews" : [],
+        "userRatings" : ""
+    }
+]
