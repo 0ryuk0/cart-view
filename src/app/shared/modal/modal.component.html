@@ -1,0 +1,36 @@
+<div *ngIf="visible" class="dialog">
+  <div class="dialog-header">
+    <h3 class="dialog-header-text">{{headerText}}</h3>
+    <button *ngIf="closable" title="close" (click)="close()" aria-label="close" class="dialog-close-btn">x</button>
+  </div>
+  <div class="dialog-body">
+    <ng-content></ng-content>
+    <div class="product-details_main row">
+        <!-- <img src="assets/images/product1.jpg"> -->
+        <div class="col-xs-6 col-md-4 col-sm-6 col-lg-4">
+            <!-- <app-product-carousel [images]=""></app-product-carousel> -->
+            <img src="{{data.images}}">
+        </div>
+        <div class="col-xs-6 col-md-4 col-sm-6 col-lg-4 product_details">
+            <p>Product: <span>{{data.productTitle}}</span></p>
+            <p>Description:   <span> {{data.productDescription}}</span></p>
+            <p>Price:  <span>{{data.price}}</span></p>
+            <p>Review:  <span>{{data.review[0]}}</span></p>
+            <!-- <div>
+                <span class="btn btn_add">Add to Cart</span>
+                <span class="btn" (click)="redirectTo()">Back</span>
+              </div> -->
+        </div>
+        
+      </div>
+  </div>
+  <div class="dialog-footer">
+    <ul>
+      <li (click)="addToCart()">
+        Add to Cart
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div *ngIf="visible" class="overlay" (click)="close()" [class.disabled] = "disabled"></div>

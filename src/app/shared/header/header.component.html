@@ -1,0 +1,25 @@
+<div class="header-main">
+  <h4><ng-content *ngIf="isShowHamIcon"></ng-content>{{title}}
+      <span (click)="toggleCartDetails($event)"><i class="glyphicon glyphicon-shopping-cart"></i></span>
+      <span (click)="toggleCartDetails($event)" class="badge">{{cartCount}}</span>
+  </h4>
+</div>
+
+<div class="cart-content" *ngIf="isShowCartList && cartDataList && cartDataList.length > 0">
+  <p>Your cart has: </p>
+  <ul class="cart-list">
+    <li *ngFor="let item of cartDataList">
+      <p>{{item.productTitle}}</p>
+      <div class="product-image">
+        <img src="{{item.images}}">
+      </div>
+      <div class="product-details">
+          <span>{{item.productDescription}}</span>
+          <span>{{item.price}}  USD</span>
+      </div>
+    </li>
+  </ul>
+  <div class="total">
+    Total: {{cartValue}}  USD
+  </div>
+</div>
