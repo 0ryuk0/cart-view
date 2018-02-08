@@ -1,0 +1,24 @@
+<app-header>
+    <span class="glyphicon glyphicon-menu-hamburger" (click)="toggleNav()">
+    </span>
+</app-header>
+<div id="mySidenav" class="sidenav">
+    <div class="cart">
+        <p>Profile <span class="glyphicon glyphicon-menu-right menu-right"></span></p>
+    </div>
+    <div class="filter">
+        <p> Filter <span class="glyphicon glyphicon-filter menu-right" (click)="toggleFilter()"></span></p>
+        <div id="filter-accordian" class="filter-options row">
+            <p>Categories</p>
+            <p [class.active]="filter.isSports" (click)="filterWith('sports', 'isSports')">Sports</p>
+            <p [class.active]="filter.isClothing" (click)="filterWith('clothing', 'isClothing')">Clothing</p>
+            <p [class.active]="filter.isGrooming" (click)="filterWith('grooming', 'isGrooming')">Grooming</p>
+            <p [class.active]="filter.isAccessories" (click)="filterWith('accessories', 'isAccessories')">Accessories</p>
+            <p [class.active]="filter.isElectronics" (click)="filterWith('electronics', 'isElectronics')">Electronics</p>
+        </div>
+    </div>
+</div>
+<div id="main">
+    <router-outlet></router-outlet>
+    <app-footer></app-footer>
+</div>
