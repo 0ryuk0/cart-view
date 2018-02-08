@@ -1,0 +1,343 @@
+[
+    {
+        "productId" : "0001",
+        "productTitle" : "Product 1",
+		"category" : "Sports"
+        "productDescription" : "",
+        "images" : [],
+        "manufacturedOn" : "",
+        "manufacturedBy" : "",
+        "sellerDetails" : {
+            "id" : "",
+            "name" : "",
+            "address" : "",
+            "branches" : "",
+            "ratings" : ""
+        },
+        "reviews" : [],
+        "userRatings" : ""
+    },
+    {
+        "productId" : "0002",
+        "productTitle" : "Product 2",
+        "productDescription" : "",
+        "images" : [],
+        "manufacturedOn" : "",
+        "manufacturedBy" : "",
+        "sellerDetails" : {
+            "id" : "",
+            "name" : "",
+            "address" : "",
+            "branches" : "",
+            "ratings" : ""
+        },
+        "reviews" : [],
+        "userRatings" : ""
+    }
+{
+        "productId" : "0003",
+        "productTitle" : "Product 3",
+        "productDescription" : "",
+        "images" : [],
+        "manufacturedOn" : "",
+        "manufacturedBy" : "",
+        "sellerDetails" : {
+            "id" : "",
+            "name" : "",
+            "address" : "",
+            "branches" : "",
+            "ratings" : ""
+        },
+        "reviews" : [],
+        "userRatings" : ""
+    }
+{
+        "productId" : "0004",
+        "productTitle" : "Product 4",
+        "productDescription" : "",
+        "images" : [],
+        "manufacturedOn" : "",
+        "manufacturedBy" : "",
+        "sellerDetails" : {
+            "id" : "",
+            "name" : "",
+            "address" : "",
+            "branches" : "",
+            "ratings" : ""
+        },
+        "reviews" : [],
+        "userRatings" : ""
+    }
+{
+        "productId" : "0005",
+        "productTitle" : "Product 5",
+        "productDescription" : "",
+        "images" : [],
+        "manufacturedOn" : "",
+        "manufacturedBy" : "",
+        "sellerDetails" : {
+            "id" : "",
+            "name" : "",
+            "address" : "",
+            "branches" : "",
+            "ratings" : ""
+        },
+        "reviews" : [],
+        "userRatings" : ""
+    }
+	{
+        "productId" : "0006",
+        "productTitle" : "Product 6",
+        "productDescription" : "",
+        "images" : [],
+        "manufacturedOn" : "",
+        "manufacturedBy" : "",
+        "sellerDetails" : {
+            "id" : "",
+            "name" : "",
+            "address" : "",
+            "branches" : "",
+            "ratings" : ""
+        },
+        "reviews" : [],
+        "userRatings" : ""
+    }
+{
+        "productId" : "0007",
+        "productTitle" : "Product 7",
+        "productDescription" : "",
+        "images" : [],
+        "manufacturedOn" : "",
+        "manufacturedBy" : "",
+        "sellerDetails" : {
+            "id" : "",
+            "name" : "",
+            "address" : "",
+            "branches" : "",
+            "ratings" : ""
+        },
+        "reviews" : [],
+        "userRatings" : ""
+    }
+	{
+        "productId" : "0008",
+        "productTitle" : "Product 8",
+        "productDescription" : "",
+        "images" : [],
+        "manufacturedOn" : "",
+        "manufacturedBy" : "",
+        "sellerDetails" : {
+            "id" : "",
+            "name" : "",
+            "address" : "",
+            "branches" : "",
+            "ratings" : ""
+        },
+        "reviews" : [],
+        "userRatings" : ""
+    }
+	{
+        "productId" : "0009",
+        "productTitle" : "Product 9",
+        "productDescription" : "",
+        "images" : [],
+        "manufacturedOn" : "",
+        "manufacturedBy" : "",
+        "sellerDetails" : {
+            "id" : "",
+            "name" : "",
+            "address" : "",
+            "branches" : "",
+            "ratings" : ""
+        },
+        "reviews" : [],
+        "userRatings" : ""
+    }
+	{
+        "productId" : "0010",
+        "productTitle" : "Product 10",
+        "productDescription" : "",
+        "images" : [],
+        "manufacturedOn" : "",
+        "manufacturedBy" : "",
+        "sellerDetails" : {
+            "id" : "",
+            "name" : "",
+            "address" : "",
+            "branches" : "",
+            "ratings" : ""
+        },
+        "reviews" : [],
+        "userRatings" : ""
+    }
+	{
+        "productId" : "0011",
+        "productTitle" : "Product 11",
+        "productDescription" : "",
+        "images" : [],
+        "manufacturedOn" : "",
+        "manufacturedBy" : "",
+        "sellerDetails" : {
+            "id" : "",
+            "name" : "",
+            "address" : "",
+            "branches" : "",
+            "ratings" : ""
+        },
+        "reviews" : [],
+        "userRatings" : ""
+    }
+	{
+        "productId" : "0012",
+        "productTitle" : "Product 12",
+        "productDescription" : "",
+        "images" : [],
+        "manufacturedOn" : "",
+        "manufacturedBy" : "",
+        "sellerDetails" : {
+            "id" : "",
+            "name" : "",
+            "address" : "",
+            "branches" : "",
+            "ratings" : ""
+        },
+        "reviews" : [],
+        "userRatings" : ""
+    }
+	{
+        "productId" : "0013",
+        "productTitle" : "Product 13",
+        "productDescription" : "",
+        "images" : [],
+        "manufacturedOn" : "",
+        "manufacturedBy" : "",
+        "sellerDetails" : {
+            "id" : "",
+            "name" : "",
+            "address" : "",
+            "branches" : "",
+            "ratings" : ""
+        },
+        "reviews" : [],
+        "userRatings" : ""
+    }
+	{
+        "productId" : "0014",
+        "productTitle" : "Product 14",
+        "productDescription" : "",
+        "images" : [],
+        "manufacturedOn" : "",
+        "manufacturedBy" : "",
+        "sellerDetails" : {
+            "id" : "",
+            "name" : "",
+            "address" : "",
+            "branches" : "",
+            "ratings" : ""
+        },
+        "reviews" : [],
+        "userRatings" : ""
+    }
+	{
+        "productId" : "0015",
+        "productTitle" : "Product 15",
+        "productDescription" : "",
+        "images" : [],
+        "manufacturedOn" : "",
+        "manufacturedBy" : "",
+        "sellerDetails" : {
+            "id" : "",
+            "name" : "",
+            "address" : "",
+            "branches" : "",
+            "ratings" : ""
+        },
+        "reviews" : [],
+        "userRatings" : ""
+    }
+	{
+        "productId" : "0016",
+        "productTitle" : "Product 16",
+        "productDescription" : "",
+        "images" : [],
+        "manufacturedOn" : "",
+        "manufacturedBy" : "",
+        "sellerDetails" : {
+            "id" : "",
+            "name" : "",
+            "address" : "",
+            "branches" : "",
+            "ratings" : ""
+        },
+        "reviews" : [],
+        "userRatings" : ""
+    }{
+        "productId" : "0017",
+        "productTitle" : "Product 17",
+        "productDescription" : "",
+        "images" : [],
+        "manufacturedOn" : "",
+        "manufacturedBy" : "",
+        "sellerDetails" : {
+            "id" : "",
+            "name" : "",
+            "address" : "",
+            "branches" : "",
+            "ratings" : ""
+        },
+        "reviews" : [],
+        "userRatings" : ""
+    }
+	{
+        "productId" : "0018",
+        "productTitle" : "Product 19",
+        "productDescription" : "",
+        "images" : [],
+        "manufacturedOn" : "",
+        "manufacturedBy" : "",
+        "sellerDetails" : {
+            "id" : "",
+            "name" : "",
+            "address" : "",
+            "branches" : "",
+            "ratings" : ""
+        },
+        "reviews" : [],
+        "userRatings" : ""
+    }
+	{
+        "productId" : "0019",
+        "productTitle" : "Product 20",
+        "productDescription" : "",
+        "images" : [],
+        "manufacturedOn" : "",
+        "manufacturedBy" : "",
+        "sellerDetails" : {
+            "id" : "",
+            "name" : "",
+            "address" : "",
+            "branches" : "",
+            "ratings" : ""
+        },
+        "reviews" : [],
+        "userRatings" : ""
+    }
+	{
+        "productId" : "0020",
+        "productTitle" : "Product 2",
+        "productDescription" : "",
+        "images" : [],
+        "manufacturedOn" : "",
+        "manufacturedBy" : "",
+        "sellerDetails" : {
+            "id" : "",
+            "name" : "",
+            "address" : "",
+            "branches" : "",
+            "ratings" : ""
+        },
+        "reviews" : [],
+        "userRatings" : ""
+    }
+	]
+	
